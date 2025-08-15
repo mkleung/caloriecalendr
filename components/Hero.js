@@ -17,7 +17,7 @@ const Hero = () => {
           <Button text="Sign Up" ></Button>
           <Button text="Login" dark></Button>
         </div>
-        <Calendar />
+        <Calendar  demo />
     </div>
   )
 }
